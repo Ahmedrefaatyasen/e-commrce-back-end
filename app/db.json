@@ -1,0 +1,69 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "training",
+      "category": "men",
+      "price": "150",
+      "image": "./src/assets/download (1).jpeg"
+    },
+    {
+      "id": "2",
+      "name": "pants",
+      "category": "kids",
+      "price": "200",
+      "image": "./src/assets/9f53f74d0f08bc8048025d8e52acd723.jpg"
+    },
+    {
+      "id": "3",
+      "name": "pants",
+      "category": "women",
+      "price": "200",
+      "image": "./src/assets/download (2).jpeg"
+    },
+    {
+      "id": "6",
+      "name": "nike running shoes",
+      "category": "men",
+      "price": "120 ",
+      "image": "./src/assets/1.jpg"
+    },
+    {
+      "id": "4",
+      "name": "nike running shoes",
+      "category": "kids",
+      "price": "120 ",
+      "image": "./src/assets/1.jpg"
+    }
+  ],
+  "admins": [
+    {
+      "id": "1",
+      "email": "rftahmd761@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "users": [
+    {
+      "id": "66c7",
+      "email": "fake123@nothing.com",
+      "password": "asdfgh"
+    },
+    {
+      "id": "8ecd",
+      "email": "refatahmd761@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "messages": [
+    {
+      "id": "9d3b"
+    },
+    {
+      "id": "2aa9",
+      "name": "ahmed",
+      "email": "ahmed769@yahoo.com",
+      "message": " خير ان شاء الله"
+    }
+  ]
+}
