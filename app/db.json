@@ -34,6 +34,13 @@
       "category": "kids",
       "price": "120 ",
       "image": "./src/assets/1.jpg"
+    },
+    {
+      "id": "9",
+      "name": "nike running shoes",
+      "category": "kids",
+      "price": "120 ",
+      "image": "./src/assets/1.jpg"
     }
   ],
   "admins": [
